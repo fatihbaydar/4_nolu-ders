@@ -1,0 +1,10 @@
+.airbender{
+    margin: 30px;
+    padding: 20px;
+    border: 5px solid greenyellow;
+    /* border: 10px  red; */
+    border-radius: 150px;
+    /* border-top-right-radius: 50px; */
+    /* border-bottom-right-radius: 50px; */
+    
+}

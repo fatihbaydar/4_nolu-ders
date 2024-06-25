@@ -1,0 +1,47 @@
+*{
+    /* border: 1px solid red; */
+}
+
+h1{
+    color: brown;
+    text-shadow: 5px 5px 3px;
+}
+span{
+    color: rgb(50, 120, 200);
+}
+.par1{
+    background-color: aquamarine;
+    text-align: center;
+    display: inline;
+}
+
+.par2{
+    background-color: cornflowerblue;
+    text-decoration: overline;
+    text-decoration: underline green;
+}
+a{
+    text-decoration: none;
+}
+
+.par3{
+    background-color: bisque;
+    text-transform: capitalize;
+}
+.par4{
+    background-color: crimson;
+    text-indent: 40px;
+}
+.par5{
+    letter-spacing: 2px;
+    line-height: 25px;
+}
+
+.par8{
+    text-shadow:1cm;
+    
+}
+
+.par10{
+    box-shadow: 5px 5px 5px rgb(142, 96, 96, 0.6) ;
+}
